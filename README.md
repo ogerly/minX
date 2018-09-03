@@ -5,7 +5,7 @@
   MinX ist DSGVO gerecht. 
   [...hier gehts zur Demo](http://www.diestelkind.de/minX )
 
-### DSGVO Konform
+### Datenschutz-Grundverordnung (DSGVO)
 
       Ziel: Ein Vorbild sein ;) 
 
